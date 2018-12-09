@@ -1,2 +1,2 @@
-# Maze_Game
-A simple Maze Game, similar to PAC Man
+# Maze Game
+A simple Maze Game, similar to PAC Man. 
